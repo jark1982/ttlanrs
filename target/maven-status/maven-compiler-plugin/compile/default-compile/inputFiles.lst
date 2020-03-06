@@ -1,0 +1,6 @@
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/TtlanApplication.java
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/model/Usuario.java
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/repository/TtlanRepository.java
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/services/TtlanServices.java
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/controller/LoguinTtLan.java
+/Users/jark/eclipse-workspace/ttlanrs/src/main/java/cl/ttlan/restservices/entity/UsuarioEntity.java

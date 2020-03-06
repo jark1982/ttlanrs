@@ -1,0 +1,6 @@
+cl/ttlan/restservices/model/Usuario.class
+cl/ttlan/restservices/TtlanApplication.class
+cl/ttlan/restservices/services/TtlanServices.class
+cl/ttlan/restservices/repository/TtlanRepository.class
+cl/ttlan/restservices/entity/UsuarioEntity.class
+cl/ttlan/restservices/controller/LoguinTtLan.class

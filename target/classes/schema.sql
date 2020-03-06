@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS USUARIO;
+  
+CREATE TABLE USUARIO (
+  id INT AUTO_INCREMENT  PRIMARY KEY,
+  user VARCHAR(250),
+  password VARCHAR(250) ,
+  last_login Date
+);
